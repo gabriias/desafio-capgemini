@@ -2,6 +2,10 @@
 
 Repositório criado para a seleção da **Academia de Java da Capgemini**
 
+### Tecnologias utilizadas
+- Java para desenvolvimento
+- JUnit5 para os testes
+
 ### Passos para executar o projeto
 Para executar esse projeto, é necessário um computador com uma versão do JDK intalada e uma IDE de preferência. Após garantir isso, siga os passos abaixo.
 
